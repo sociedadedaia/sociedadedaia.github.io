@@ -13,8 +13,8 @@ Version: 12.9ubuntu3
 Package: zlib1g-dev\
 Version: 1:1.2.11.dfsg-2ubuntu9.2
 
-Package: jekyll\
-Version: jekyll 4.3.4
+Package: jekyll
+Version: 4.3.4
 
 ## Installation (Ubuntu): 
 
